@@ -1,165 +1,172 @@
 <div align="center">
 
-# 👋 Jacobo Pabón Contreras
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:00FF9C&height=220&section=header&text=JACOBO%20PABÓN%20CONTRERAS&fontSize=34&fontColor=00FF9C&fontAlignY=40&desc=Desarrollador%20de%20Software%20en%20Formación&descAlignY=58&descSize=17&descColor=FFFFFF" width="100%"/>
 
-### 💻 Desarrollador de software en formación
+<br>
 
-Aprendiz de **Análisis y Desarrollo de Software (ADSO) en el SENA**, interesado en el desarrollo web, la programación, las bases de datos y la creación de soluciones tecnológicas.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&height=50&lines=%24+whoami;Jacobo+Pab%C3%B3n+Contreras;%24+cat+perfil.txt;Aprendiendo%2C+creando+y+mejorando+software" alt="Typing SVG"/>
 
-![ADSO](https://img.shields.io/badge/ADSO-SENA-00ff9c?style=flat-square&labelColor=0d1117)
-![Edad](https://img.shields.io/badge/Edad-18-00ff9c?style=flat-square&labelColor=0d1117)
-![Ubicación](https://img.shields.io/badge/Ubicación-Medellín%2C%20Colombia-00ff9c?style=flat-square&labelColor=0d1117)
-![Estado](https://img.shields.io/badge/Estado-En%20formación-ffb000?style=flat-square&labelColor=0d1117)
+<br><br>
+
+[![SENA](https://img.shields.io/badge/ADSO-SENA-00FF9C?style=for-the-badge&labelColor=0D1117)](https://www.sena.edu.co/)
+[![Status](https://img.shields.io/badge/Estado-En%20formación-00FF9C?style=for-the-badge&labelColor=0D1117)]
+[![Ubicación](https://img.shields.io/badge/Medellín-Colombia-00FF9C?style=for-the-badge&labelColor=0D1117)]
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+# `> Sobre mí`
 
-Soy aprendiz de **Análisis y Desarrollo de Software en el SENA**, con interés en la programación, el desarrollo web y la creación de soluciones tecnológicas para necesidades reales.
+Soy **Jacobo Pabón Contreras**, aprendiz de **Análisis y Desarrollo de Software (ADSO) en el SENA**, con interés en la programación, el desarrollo web y la creación de soluciones tecnológicas.
 
-Durante mi formación he trabajado en proyectos que involucran **desarrollo web, bases de datos, análisis de requerimientos y lógica de programación**. Uno de los principales proyectos en los que he participado es **RecurSoft**, un sistema orientado a la gestión de recursos institucionales.
+Actualmente estoy fortaleciendo mis conocimientos mediante proyectos formativos y prácticos, trabajando principalmente con **PHP, Python, JavaScript, HTML, CSS, Bootstrap y MySQL**.
 
-Actualmente continúo fortaleciendo mis conocimientos y buscando mejorar tanto mis habilidades técnicas como mi capacidad para trabajar en equipo, analizar problemas y convertir necesidades en soluciones funcionales.
+Me interesa especialmente entender cómo una idea o una necesidad puede convertirse en una solución de software funcional, organizada y fácil de utilizar.
 
-```js
-const lema = "Aprender, practicar y construir soluciones útiles, una línea de código a la vez.";
+> **`Aprender → Practicar → Construir → Mejorar`**
+
+---
+
+## `> Perfil`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  jacobo@adso:~$ neofetch                                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  👤 Nombre       : Jacobo Pabón Contreras                    │
+│  🎓 Formación     : Análisis y Desarrollo de Software        │
+│  🏫 Institución   : SENA                                     │
+│  📍 Ubicación     : Medellín, Antioquia, Colombia            │
+│  💻 Enfoque       : Desarrollo de software y web             │
+│  🚀 Estado        : En formación                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎓 Formación
-
-```diff
-+ Análisis y Desarrollo de Software (ADSO)
-+ Servicio Nacional de Aprendizaje (SENA)
-+ Colombia
-! Estado: En formación
-```
-
-**Áreas de formación:**
-
-`Desarrollo de software` `Programación` `Desarrollo web` `Bases de datos` `Análisis de requerimientos`
-
----
-
-## 🚀 Proyectos
+# `> Proyectos destacados`
 
 ### 📦 RecurSoft
 **Sistema de Gestión de Recursos Institucionales**
 
-Proyecto formativo desarrollado para apoyar la administración y control de recursos dentro de una institución educativa.
+RecurSoft es uno de los principales proyectos de formación en el que he trabajado. Su objetivo es facilitar la gestión y control de los recursos de una institución.
 
-**Incluye:**
+**Incluye / trabaja con:**
 
-- Gestión de usuarios y empleados.
-- Registro y consulta de recursos.
-- Categorías y estados de los recursos.
+- Gestión de usuarios y roles.
+- Registro y administración de recursos.
 - Préstamos y devoluciones.
-- Control de disponibilidad.
-- Mantenimiento de recursos.
-- Proveedores y compras.
-- Historial de movimientos.
-- Diferenciación de permisos entre administrador y empleado.
+- Control de mantenimiento.
+- Gestión de proveedores.
+- Historial y reportes.
+- Reglas de negocio y permisos.
+- Base de datos relacional.
+- Interfaces web para los diferentes módulos.
 
-**Tecnologías utilizadas:**
+**Tecnologías principales:**
 
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00ff9c)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff9c)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00ff9c)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00ff9c)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff9c)
+`PHP` `MySQL` `HTML` `CSS` `Bootstrap` `JavaScript`
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🌐 Desarrollo Web
 
-### Lenguajes y desarrollo web
+Durante mi formación he desarrollado diferentes interfaces y proyectos web utilizando tecnologías como:
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff9c)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff9c)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=00ff9c)
+```text
+Frontend
+├── HTML5
+├── CSS3
+├── Bootstrap
+└── JavaScript
+
+Backend
+├── PHP
+└── Python
+
+Base de datos
+└── MySQL / MariaDB
+```
+
+También he trabajado con **XAMPP** para desarrollar y probar aplicaciones web en entornos locales.
+
+---
+
+# `> Tecnologías`
+
+<div align="center">
+
+### Lenguajes
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+
+<br><br>
+
+### Frameworks y herramientas
+
+<img src="https://skillicons.dev/icons?i=bootstrap,react,flask,vscode,git,github" />
+
+<br><br>
 
 ### Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9c)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=00ff9c)
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Herramientas
+</div>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)
-![XAMPP](https://img.shields.io/badge/XAMPP-0d1117?style=for-the-badge&logo=xampp&logoColor=00ff9c)
-
----
-
-## 📚 Conocimientos
+<br>
 
 ```text
-WEB
-→ HTML, CSS, Bootstrap
-→ PHP y conexión con bases de datos
-→ Fundamentos de JavaScript
-→ Fundamentos de React y Flask
-
-BASES DE DATOS
-→ MySQL / MariaDB
-→ Consultas SQL
-→ Relaciones entre tablas
-→ Gestión básica de datos
-
-PROGRAMACIÓN
-→ Python
-→ Variables y estructuras de control
-→ Listas y diccionarios
-→ Funciones
-→ Lógica de programación
-
-ANÁLISIS Y DOCUMENTACIÓN
-→ Requerimientos funcionales y no funcionales
-→ Roles y permisos
-→ Reglas de negocio
-→ Organización de módulos
-→ Documentación de proyectos
+Python       █████████░░░  Fundamentos
+PHP          █████████░░░  Desarrollo web
+JavaScript   ███████░░░░░  Fundamentos
+HTML / CSS   ██████████░░  Desarrollo web
+Bootstrap    ██████████░░  Interfaces
+MySQL        █████████░░░  Bases de datos
+React        █████░░░░░░░  Fundamentos
+Flask        █████░░░░░░░  Fundamentos
+Git/GitHub   ████████░░░░  Control de versiones
 ```
+
+> Las barras representan de forma aproximada mi nivel actual de práctica, no certificaciones de dominio.
 
 ---
 
-## 💡 Habilidades
+# `> Conocimientos`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🤝 Personales
+### 💻 Desarrollo
 
-- Trabajo en equipo
-- Responsabilidad
-- Organización
-- Resolución de problemas
-- Creatividad
-- Adaptabilidad
-- Aprendizaje continuo
+- Lógica de programación.
+- Programación con Python.
+- Desarrollo web.
+- PHP y conexión con bases de datos.
+- HTML y CSS.
+- Diseño de interfaces con Bootstrap.
+- Fundamentos de JavaScript.
+- Fundamentos de React y Flask.
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 💻 Profesionales
+### 🗄️ Datos y análisis
 
-- Pensamiento lógico
-- Análisis de requerimientos
-- Desarrollo de interfaces
-- Manejo de bases de datos
-- Organización de proyectos
-- Interés por la innovación tecnológica
-- Disposición para aprender nuevas tecnologías
+- MySQL / MariaDB.
+- Consultas SQL.
+- Diseño básico de bases de datos.
+- Relaciones entre tablas.
+- Análisis de requerimientos.
+- Roles y permisos.
+- Reglas de negocio.
+- Documentación de proyectos.
 
 </td>
 </tr>
@@ -167,31 +174,96 @@ ANÁLISIS Y DOCUMENTACIÓN
 
 ---
 
-## 🎯 Objetivos
+# `> Formación`
+
+```diff
++ Análisis y Desarrollo de Software (ADSO)
++ Servicio Nacional de Aprendizaje — SENA
++ Colombia
+
+! Estado actual: En formación
+```
+
+### Actualmente fortaleciendo
+
+`Programación` · `Bases de datos` · `Desarrollo web` · `Ingeniería de software` · `Análisis de requerimientos`
+
+---
+
+# `> Habilidades`
+
+<div align="center">
+
+| 💻 Técnicas | 🤝 Personales |
+|:---|:---|
+| Lógica de programación | Trabajo en equipo |
+| Desarrollo web | Responsabilidad |
+| Bases de datos | Organización |
+| Análisis de requerimientos | Resolución de problemas |
+| Control de versiones | Aprendizaje continuo |
+| Documentación | Creatividad |
+
+</div>
+
+---
+
+# `> Objetivos`
 
 ```text
-[>] Construir aplicaciones que resuelvan necesidades reales.
-[>] Seguir fortaleciendo mis conocimientos en programación.
-[>] Profundizar en desarrollo web y arquitectura de software.
-[>] Construir un portafolio con proyectos funcionales y documentados.
-[>] Adquirir experiencia en proyectos reales de desarrollo.
-[>] Continuar aprendiendo nuevas tecnologías.
+[01] Mejorar continuamente mis habilidades como desarrollador.
+[02] Construir aplicaciones que solucionen necesidades reales.
+[03] Fortalecer mis conocimientos en arquitectura de software.
+[04] Crear un portafolio con proyectos bien documentados.
+[05] Seguir aprendiendo nuevas tecnologías y herramientas.
+[06] Crecer profesionalmente dentro del área de tecnología.
 ```
 
 ---
 
-## 📫 Contacto
+# `> Actualmente aprendiendo`
 
 <div align="center">
 
-📧 **Correo:** jpcjacobocontreras@gmail.com  
-📱 **Teléfono:** 313 729 7731  
-📍 **Ubicación:** Medellín, Antioquia, Colombia
+`PHP` `Python` `JavaScript` `MySQL` `Git` `React` `Flask`
+
+</div>
 
 <br>
 
-[![Correo](https://img.shields.io/badge/Correo-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:jpcjacobocontreras@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff9c)](https://wa.me/573137297731)
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  "El código no tiene que ser perfecto desde el inicio.  │
+│   Tiene que ser mejor que ayer."                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> Contacto`
+
+<div align="center">
+
+<a href="mailto:jpcjacobocontreras@gmail.com">
+<img src="https://img.shields.io/badge/Correo-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<a href="https://wa.me/573137297731">
+<img src="https://img.shields.io/badge/WhatsApp-00FF9C?style=for-the-badge&logo=whatsapp&logoColor=0D1117"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **jpcjacobocontreras@gmail.com**
+
+📱 **313 729 7731**
+
+📍 **Medellín, Antioquia, Colombia**
 
 </div>
 
@@ -199,13 +271,12 @@ ANÁLISIS Y DOCUMENTACIÓN
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0D1117,100:0D1117&height=120&section=footer"/>
+
 ```text
-jacobo@adso:~$ whoami
-
-Desarrollador de software en formación
-Medellín, Antioquia · Colombia
-
-"Aprender, practicar y construir."
+jacobo@adso:~$ echo "Gracias por visitar mi perfil 👋"
 ```
+
+**Jacobo Pabón Contreras · Software Development · SENA**
 
 </div>
